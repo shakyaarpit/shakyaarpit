@@ -1,0 +1,38 @@
+@media only screen and (max-width: 960px){
+    .about-section{
+        flex-direction: column;
+    }
+    .ser-sec{
+        flex-direction: column;
+    }
+    .project-show1{
+        flex-direction: column;
+    }
+    .project-show2{
+        flex-direction: column;
+    }
+    .con-me{
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width: 820px){
+    .img1 img{
+        height: 250px;
+        width: 250px;
+    }
+    .nav{
+        display: none;
+    }
+    
+}
+@media only screen and (max-width: 550px){
+    .img1 img{
+        display: none;
+    }
+    .Home-sec{
+        padding: 15% 0;
+    }
+  
+         
+    
+}

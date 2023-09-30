@@ -1,0 +1,268 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+.container-fluid .navbar-brand{
+    font-size: 30px;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+
+#full-nav{
+    background-color:  rgb(22, 17, 17);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+#full-nav .container-fluid #navbarSupportedContent ul li a{
+    margin-right: 30px;
+    color: white;
+}
+#full-nav .container-fluid #navbarSupportedContent ul li a:hover{
+    color: red;
+}
+
+
+.Home-sec{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 8% 0;
+   
+   
+}
+.img1 img{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+.Home-sec .info h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.Home-sec .info p{
+font-size: 0.85rem;
+margin: 10px 0 15px 0;
+line-height: 20px;
+}
+ span{
+color: orange;
+}
+.Home-sec .info a{
+background-color: rgb(12, 12, 12);
+color: white;
+padding: 7px;
+border-radius: 10px;
+text-decoration: none;
+font-size: 1.1rem;
+
+}
+.Home-sec .info a:hover{
+    color: red;
+}
+
+/* about section */
+
+.main-about{
+    padding: 7% 0 10% 0;
+    text-align: center;
+    
+}
+.main-about h1{
+    margin-bottom: 30px;
+    text-shadow: 10px 10px 20px black;
+    
+}
+.about-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.education h2{
+    color: #2196F3;
+}
+
+.education .eduh3 {
+    margin-top: 20px;
+    font-size: 20px;
+}
+.education .para{
+    font-size: 0.85rem;
+    margin-top: 7px;
+}
+.education .mani{
+    margin-right: 30px;
+}
+ .right-edu h3{
+    font-size: 25px;
+    margin-top: 25px;
+    margin: 0 10px 0 10px;
+}
+.right-edu h2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #2196F3;
+}
+.right-edu{
+    margin-bottom: 20px;
+}
+
+.skiil-section{
+    text-align: center;
+    text-shadow: 10px 10px 20px black;
+    
+}
+.skill-set{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5%;
+    padding: 0 0 5% 0;
+}
+.skill-set p{
+    margin: 20px 0 4px 0;
+
+}
+
+
+.container1 {
+    width: 95%;
+    background-color: #ddd;
+   
+  }
+  
+  .skills {
+    text-align: right;
+    
+    color: white;
+  }
+  
+  .html {width: 90%; background-color: #04AA6D;}
+  .css {width: 90%; background-color: #2196F3;}
+  .js {width: 70%; background-color: #f44336;}
+  .React {width: 60%; background-color: #2cc683;}
+  .Git  {width: 90%; background-color: #88e863;}
+  .Tailwind {width: 90%; background-color: #77aade;}
+  .Bootstrap {width: 90%; background-color: #cc9898;}
+
+/* service-section */
+
+.service-section{
+    text-align: center;
+    padding: 7% 0;
+    text-shadow: 10px 10px 20px black;
+}
+.ser-sec{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ser-sec .same{
+    height: 300px;
+    width: 330px;
+    background-color: red;
+    margin-top: 50px;
+
+}
+.ser-sec .same p{
+    margin-top: 40%;
+    font-size: 1.7rem;
+}
+.ser-sec .same1{
+    background-color: #88e863;
+}
+.ser-sec .same2{
+background-color: burlywood;
+}
+.ser-sec .same3{
+background-color: aqua;
+}
+.ser-sec .same:hover{
+    background-color: #3e8de8;
+    border: 2px solid transparent;
+}
+/* project-section */
+
+.project-section{
+    text-align: center;
+    padding: 5% 0 2% 0;
+    text-shadow: 10px 10px 20px black;
+}
+.project-show1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5% 0;
+    
+}
+.project-show2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 5%;
+}
+ .project-show1 p{
+    margin-top: 15px;
+    font-size: 1.2rem;
+    
+}
+ .project-show2 p{
+    margin-top: 15px;
+    font-size: 1.2rem;
+    
+}
+.project-show1 .project1{
+    margin-bottom: 20px;
+}
+.project-show2 .project3{
+    margin-bottom: 20px;
+}
+.project1:hover{
+    border: 1.5px solid transparent;
+    
+}
+.project2:hover{
+    border: 1.5px solid transparent;
+    
+}
+.project3:hover{
+    border: 1.5px solid transparent;
+    
+}
+.project4:hover{
+    border: 1.5px solid transparent;
+    
+}
+/* contact-section */
+
+.contact-section{
+    text-align: center;
+    padding: 5% 0;
+    text-shadow: 10px 10px 20px black;
+}
+.con-me{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 5%;
+}
+.con-me .social a {
+    font-size: 30px;
+    text-decoration: none;
+}
+.main-footer{
+    text-align: center;
+    
+    background-color: rgb(28, 28, 28);
+    color: white;
+    padding: 1% 0;
+    font-size: 18px;
+}
+.social{
+    margin-top: 20px;
+}
