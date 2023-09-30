@@ -1,6 +1,6 @@
 ### Hi! I`M ARPIT  👋
 
-<!--
+
 **shakyaarpit/shakyaarpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ interdisciplinary teams and executing goal-oriented projects.
 - 📫 How to reach me: ... linkidin linkedin.com/in/arpitshakya
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
--->
+
