@@ -7,7 +7,7 @@
 
 -➡️ Reach me on LinkedIn ---- (https://www.linkedin.com/in/arpitshakya/)
 
-✌️ My portfolio ---- (https://shakyaarpit.github.io/shakyaarpit/)
+✌️ My portfolio ---- (https://shakya-arpit.netlify.app/)
 
 
 
